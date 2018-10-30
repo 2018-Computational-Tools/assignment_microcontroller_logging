@@ -119,6 +119,6 @@ Start by creating a new project (e.g. clone this repository, open it in the Part
   - Angular velocity along the X/Y/Z axis = (Gyroscope X/Y/Z axis raw data/131) °/s.
   - **Temperature value in °/c (degree per Celsius)**:
   - Temperature in degrees C = ((temperature sensor data)/340 + 36.53) °/c.
- 3. What are the values you get? Do they make sense?
+ 3. output the converted values to the Serial output. What do you get? Do these make sense?
 
 Note: additional information on this sophisticated motion sensor module is available [here](http://www.electronicwings.com/sensors-modules/mpu6050-gyroscope-accelerometer-temperature-sensor-module).
